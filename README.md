@@ -1,6 +1,6 @@
 tmdb
 ====
-类似于DBM的小Hash数据库 
+类似于DBM的小型Hash KV数据库 
 
 TieMa?(Tiny&Mini) TDBM (like dbm-style database)(ANSI C, GCC require)
 
