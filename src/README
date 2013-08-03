@@ -1,0 +1,32 @@
+/**
+ * TieMa(Tiny&Mini) TDBM (like dbm-style database)
+ * Copyright (C) 2010 heiyeluren. All rights reserved.
+ *
+ * tmdb is a easy use, high performance like dbm-style database
+ *  
+ * Use and distribution licensed under the BSD license.  See
+ * the LICENSE file for full text.
+ *
+ * To learn more open-source code, visit: http://heiyeluren.googlecode.com
+ * My blog: http://blog.csdn.net/heiyeshuwu
+ *
+ */
+
+See the manual entry for more details.
+
+Files in this distribution:
+
+    README		this
+    Makefile		guess
+    tm_util.c		source file
+    tm_util.h		source file
+    tmdb.h		source file
+    tmdb.c		source file
+
+To build: If you're on a SysV-like machine (which includes old Linux systems
+but not new Linux systems), edit the Makefile and uncomment the SYSVLIBS line.
+Otherwise, just do a make.
+
+	blog  http://blog.csdn.net/heiyeshuwu
+    project http://heiyeluren.googlecode.com
+
